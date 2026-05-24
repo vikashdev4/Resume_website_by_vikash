@@ -1,0 +1,41 @@
+h1{
+    color: red;
+}
+h1+p{
+    color: green;
+}
+h3{
+    color: orange;
+    text-decoration: purple underline;
+    text-align: left;
+    
+}
+button:hover{
+    color: brown;
+    background-color: aqua;
+
+}
+input[type="radio"]:Checked + label{
+        color: red;
+        font-weight: bold;
+
+    }
+
+input[type="text"]{
+    color: brown;
+}
+
+ input[type="text"]{
+        background-color: ghostwhite;
+    }
+    body {
+    font-family: Arial;
+
+}
+button {
+    padding: 8px 15px;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
