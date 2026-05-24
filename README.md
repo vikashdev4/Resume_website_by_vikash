@@ -12,7 +12,7 @@
 - Simple & Modern Layout
 
 ## 🌍 Live Website
-https://vikashdev4.github.io/resume_website_by_vikash/
+https://vikashdev4.github.io/Resume_website_by_vikash/
 
 ## 📌 GitHub Repository
-https://github.com/vikashdev4/resume_website_by_vikash
+https://github.com/vikashdev4/Resume_website_by_vikash
